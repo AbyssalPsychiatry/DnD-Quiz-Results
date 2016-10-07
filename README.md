@@ -5,7 +5,7 @@
 <h3>How to Submit Results</h3>
 <p>Before you click "What D&D Character Am I?", make sure to uncheck the box that says "HTML Code (for webpages/journals)"
 <a href="uncheckthefuckingboxok.png" target="_blank">It should look like this</a></p>
-<p>Then, simply copy/paste the text in the window that opens into a new file, select "Soft Wrap" in the top right-hand corner, and commit the file.</p>
+<p>Then, simply copy/paste the text in the window that opens into a new file, select "Soft Wrap" in the top right-hand corner (if you want to read your text easily before committing the file), and commit the file.</p>
 
 <a href="softfuckingwrapok.png" target="_blank">Soft Wrap</a>
 
